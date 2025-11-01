@@ -1,5 +1,11 @@
 # Programming
 
+## Need to have for next week
+
+Where will we build the code?
+
+Start some general coding in the project
+
 ## Things we need to do/figure out
 Where do we want to run the code?  Maybe each on our local machines?
 
@@ -9,7 +15,7 @@ Once above is done, what are the parts of the code that we need to have for the 
 
 What imports do we need?
 
-Is there a nice way to show the game board?
+Is there a nice way to show the game board? - graphical user interface maybe 
 
 ## Game
 Design a game board with list or array (six-row, seven-column)
